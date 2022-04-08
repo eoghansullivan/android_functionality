@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AlcoholCalculator/AlcoholCalculator.iml" filepath="$PROJECT_DIR$/AlcoholCalculator/AlcoholCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaxiPhoneNumber/TaxiPhoneNumber.iml" filepath="$PROJECT_DIR$/TaxiPhoneNumber/TaxiPhoneNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/android_functionality.iml" filepath="$PROJECT_DIR$/.idea/android_functionality.iml" />
     </modules>
   </component>
